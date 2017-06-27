@@ -1,7 +1,6 @@
 ---
-applications: dffasdf asdfasd
+applications:
 - name:    simple-http-server-express
   host:    simple-http-server-express-${random-word}
   memory:  64M
-  command: node a fasdf asdpp.js
- asdd
+  command: node app.js
